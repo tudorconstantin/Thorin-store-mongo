@@ -1,0 +1,19 @@
+{
+  "name": "thorin-store-mongo",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "5.5.2"
+  },
+  "description": "Thorin.js MongoDB store",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-store-mongo"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-store-mongo/issues"
+  }
+}

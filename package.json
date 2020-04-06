@@ -1,9 +1,9 @@
 {
   "name": "thorin-store-mongo",
   "author": "UNLOQ Systems",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
-    "mongoose": "5.5.2"
+    "mongoose": "5.9.7"
   },
   "description": "Thorin.js MongoDB store",
   "main": "index.js",

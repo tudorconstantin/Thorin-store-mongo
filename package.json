@@ -1,7 +1,7 @@
 {
   "name": "thorin-store-mongo",
   "author": "UNLOQ Systems",
-  "version": "1.0.4",
+  "version": "1.1.4",
   "dependencies": {
     "mongoose": "5.10.7"
   },
